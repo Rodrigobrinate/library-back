@@ -1,0 +1,3208 @@
+{
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.3",
+			"Language": null,
+			"EncryptFilterName": null,
+			"IsLinearized": false,
+			"IsAcroFormPresent": false,
+			"IsXFAPresent": false,
+			"IsCollectionPresent": false,
+			"IsSignaturesPresent": false,
+			"Title": "Arquitetura de dados_1SEM_PI_2022_1",
+			"Producer": "macOS Versão 11.4 (Compilação 20F71) Quartz PDFContext",
+			"Author": "Vanessa Leite",
+			"Creator": "Word",
+			"CreationDate": "D:20211217004558Z00'00'",
+			"ModDate": "D:20211217004558Z00'00'"
+		},
+		"metadata": null
+	},
+	"pages": [
+		{
+			"pageInfo": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 595,
+				"height": 842
+			},
+			"links": [],
+			"content": [
+				{
+					"x": 54,
+					"y": 52.32000000000005,
+					"str": "PROJETO INTEGRADO",
+					"dir": "ltr",
+					"width": 162.1565999999999,
+					"height": 18,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 203.367696,
+					"y": 683.04,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 19.919999999999998,
+					"fontName": "g_d0_f9"
+				},
+				{
+					"x": 203.367696,
+					"y": 683.04,
+					"str": "CURSO",
+					"dir": "ltr",
+					"width": 56.736144,
+					"height": 19.919999999999998,
+					"fontName": "g_d0_f9"
+				},
+				{
+					"x": 260.15472,
+					"y": 683.04,
+					"str": "S DA ÁREA DE TI",
+					"dir": "ltr",
+					"width": 131.79470400000017,
+					"height": 19.919999999999998,
+					"fontName": "g_d0_f9"
+				},
+				{
+					"x": 63.840096,
+					"y": 87.12,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 28.08,
+					"fontName": "g_d0_f11"
+				},
+				{
+					"x": 63.840096,
+					"y": 87.12,
+					"str": "PROJETO INTEGRADO",
+					"dir": "ltr",
+					"width": 252.33249600000005,
+					"height": 28.08,
+					"fontName": "g_d0_f11"
+				}
+			]
+		},
+		{
+			"pageInfo": {
+				"num": 2,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 595,
+				"height": 842
+			},
+			"links": [],
+			"content": [
+				{
+					"x": 54,
+					"y": 52.32000000000005,
+					"str": "PROJETO INTEGRADO",
+					"dir": "ltr",
+					"width": 162.1565999999999,
+					"height": 18,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 54,
+					"y": 134.16000000000008,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f5"
+				},
+				{
+					"x": 54,
+					"y": 134.16000000000008,
+					"str": "Prezado aluno,",
+					"dir": "ltr",
+					"width": 74.23919999999991,
+					"height": 12,
+					"fontName": "g_d0_f5"
+				},
+				{
+					"x": 89.39990399999999,
+					"y": 164.16000000000008,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 89.39990399999999,
+					"y": 164.16000000000008,
+					"str": "Seja bem",
+					"dir": "ltr",
+					"width": 44.68200000000003,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 134.077632,
+					"y": 164.16000000000008,
+					"str": "-",
+					"dir": "ltr",
+					"width": 3.6719999999999997,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 137.751456,
+					"y": 164.16000000000008,
+					"str": "vindo a este semestre!",
+					"dir": "ltr",
+					"width": 110.65559999999995,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 89.39990399999999,
+					"y": 194.16000000000008,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 89.39990399999999,
+					"y": 194.16000000000008,
+					"str": "A proposta de Projeto Integrado é possibilitar a aprendizagem interdisciplinar dos conteúdos",
+					"dir": "ltr",
+					"width": 451.9055999999997,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 54,
+					"y": 216,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 54,
+					"y": 216,
+					"str": "desenvolvidos nas disciplinas desse semestre.",
+					"dir": "ltr",
+					"width": 222.73200000000008,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 197.52784799999998,
+					"y": 276,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f5"
+				},
+				{
+					"x": 197.52784799999998,
+					"y": 276,
+					"str": "ORIENTAÇÕES",
+					"dir": "ltr",
+					"width": 71.03879999999995,
+					"height": 12,
+					"fontName": "g_d0_f5"
+				},
+				{
+					"x": 268.566648,
+					"y": 276,
+					"str": " ",
+					"dir": "ltr",
+					"width": 0.22560599999999909,
+					"height": 12,
+					"fontName": "g_d0_f5"
+				},
+				{
+					"x": 271.27392,
+					"y": 276,
+					"str": "DO PROJETO INTEGRADO",
+					"dir": "ltr",
+					"width": 126.49800000000008,
+					"height": 12,
+					"fontName": "g_d0_f5"
+				},
+				{
+					"x": 61.100088,
+					"y": 306,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f5"
+				},
+				{
+					"x": 61.100088,
+					"y": 306,
+					"str": "1.",
+					"dir": "ltr",
+					"width": 9.285599999999992,
+					"height": 12,
+					"fontName": "g_d0_f5"
+				},
+				{
+					"x": 70.38568799999999,
+					"y": 306,
+					"str": " ",
+					"dir": "ltr",
+					"width": 0.9970340000000005,
+					"height": 12,
+					"fontName": "g_d0_f5"
+				},
+				{
+					"x": 82.350096,
+					"y": 306,
+					"str": "O trabalho será realizado",
+					"dir": "ltr",
+					"width": 122.598,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 204.94809600000002,
+					"y": 306,
+					"str": " ",
+					"dir": "ltr",
+					"width": 0.2263719999999978,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 207.66456,
+					"y": 306,
+					"str": "individualmente",
+					"dir": "ltr",
+					"width": 81.59279999999995,
+					"height": 12,
+					"fontName": "g_d0_f5"
+				},
+				{
+					"x": 289.2564,
+					"y": 306,
+					"str": ".",
+					"dir": "ltr",
+					"width": 3.024,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 61.100088,
+					"y": 320.6400000000001,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f5"
+				},
+				{
+					"x": 61.100088,
+					"y": 320.6400000000001,
+					"str": "2.",
+					"dir": "ltr",
+					"width": 9.285599999999992,
+					"height": 12,
+					"fontName": "g_d0_f5"
+				},
+				{
+					"x": 70.38568799999999,
+					"y": 320.6400000000001,
+					"str": " ",
+					"dir": "ltr",
+					"width": 0.9970340000000005,
+					"height": 12,
+					"fontName": "g_d0_f5"
+				},
+				{
+					"x": 82.350096,
+					"y": 320.6400000000001,
+					"str": "Importante:",
+					"dir": "ltr",
+					"width": 60.15600000000002,
+					"height": 12,
+					"fontName": "g_d0_f5"
+				},
+				{
+					"x": 142.506096,
+					"y": 320.6400000000001,
+					"str": " ",
+					"dir": "ltr",
+					"width": 0.24383599999999936,
+					"height": 12,
+					"fontName": "g_d0_f5"
+				},
+				{
+					"x": 145.432128,
+					"y": 320.6400000000001,
+					"str": "Você deverá postar o traba",
+					"dir": "ltr",
+					"width": 133.10999999999996,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 278.54016,
+					"y": 320.6400000000001,
+					"str": "lho finalizado no AVA, o que deverá ser feito na pasta",
+					"dir": "ltr",
+					"width": 262.7640000000001,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 82.350096,
+					"y": 335.28000000000003,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 82.350096,
+					"y": 335.28000000000003,
+					"str": "específica",
+					"dir": "ltr",
+					"width": 48.008399999999995,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 130.35849599999995,
+					"y": 335.28000000000003,
+					"str": " ",
+					"dir": "ltr",
+					"width": 0.23408200000000554,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 133.16748,
+					"y": 335.28000000000003,
+					"str": "da disciplina Projeto Integrado",
+					"dir": "ltr",
+					"width": 149.3628,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 282.53028,
+					"y": 335.28000000000003,
+					"str": " ",
+					"dir": "ltr",
+					"width": 0.234469999999997,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 285.34391999999997,
+					"y": 335.28000000000003,
+					"str": "obedecendo ao prazo limite de postagem, conforme",
+					"dir": "ltr",
+					"width": 255.96119999999993,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 82.350096,
+					"y": 349.9200000000001,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 82.350096,
+					"y": 349.9200000000001,
+					"str": "disposto no",
+					"dir": "ltr",
+					"width": 56.767199999999974,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 139.117296,
+					"y": 349.9200000000001,
+					"str": " ",
+					"dir": "ltr",
+					"width": 0.22643199999999788,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 141.83447999999999,
+					"y": 349.9200000000001,
+					"str": "AVA",
+					"dir": "ltr",
+					"width": 20.702399999999994,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 162.5298,
+					"y": 349.9200000000001,
+					"str": ".",
+					"dir": "ltr",
+					"width": 3.024,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 165.5538,
+					"y": 349.9200000000001,
+					"str": " ",
+					"dir": "ltr",
+					"width": 0.2265139999999993,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 168.271968,
+					"y": 349.9200000000001,
+					"str": "Não existe prorrogação para a postagem da atividade",
+					"dir": "ltr",
+					"width": 260.59079999999994,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 428.856,
+					"y": 349.9200000000001,
+					"str": ".",
+					"dir": "ltr",
+					"width": 3.024,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 61.100088,
+					"y": 364.56000000000006,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f5"
+				},
+				{
+					"x": 61.100088,
+					"y": 364.56000000000006,
+					"str": "3.",
+					"dir": "ltr",
+					"width": 9.285599999999992,
+					"height": 12,
+					"fontName": "g_d0_f5"
+				},
+				{
+					"x": 70.38568799999999,
+					"y": 364.56000000000006,
+					"str": " ",
+					"dir": "ltr",
+					"width": 0.9970340000000005,
+					"height": 12,
+					"fontName": "g_d0_f5"
+				},
+				{
+					"x": 82.350096,
+					"y": 364.56000000000006,
+					"str": "Deve conter, depois de pronto, capa e f",
+					"dir": "ltr",
+					"width": 194.4144,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 276.76536,
+					"y": 364.56000000000006,
+					"str": "olha de rosto padrão da",
+					"dir": "ltr",
+					"width": 117.7416000000001,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 394.50696000000016,
+					"y": 364.56000000000006,
+					"str": " ",
+					"dir": "ltr",
+					"width": 0.252539999999982,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 397.53743999999995,
+					"y": 364.56000000000006,
+					"str": "Instituição",
+					"dir": "ltr",
+					"width": 51.02159999999998,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 448.56071999999995,
+					"y": 364.56000000000006,
+					"str": ", sendo organizado",
+					"dir": "ltr",
+					"width": 92.73360000000034,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 82.350096,
+					"y": 379.20000000000005,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 82.350096,
+					"y": 379.20000000000005,
+					"str": "no que tange à sua apresentação visual (tipos e tamanhos de fontes, alinhamento do texto,",
+					"dir": "ltr",
+					"width": 458.96400000000006,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 82.350096,
+					"y": 393.84000000000003,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 82.350096,
+					"y": 393.84000000000003,
+					"str": "espaçamentos, adentramento de parágrafos,",
+					"dir": "ltr",
+					"width": 221.61120000000005,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 303.96129600000006,
+					"y": 393.84000000000003,
+					"str": " ",
+					"dir": "ltr",
+					"width": 0.2817319999999957,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 307.34208,
+					"y": 393.84000000000003,
+					"str": "apresentação correta de citações e referências,",
+					"dir": "ltr",
+					"width": 233.9688,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 82.350096,
+					"y": 408.48,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 82.350096,
+					"y": 408.48,
+					"str": "entre outros elementos",
+					"dir": "ltr",
+					"width": 115.33080000000004,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 197.68089599999996,
+					"y": 408.48,
+					"str": " ",
+					"dir": "ltr",
+					"width": 0.22601400000000163,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 200.39306399999998,
+					"y": 408.48,
+					"str": "importantes), conforme modelo disponível no AVA.",
+					"dir": "ltr",
+					"width": 250.75920000000042,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 61.100088,
+					"y": 423.12,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f5"
+				},
+				{
+					"x": 61.100088,
+					"y": 423.12,
+					"str": "4.",
+					"dir": "ltr",
+					"width": 9.285599999999992,
+					"height": 12,
+					"fontName": "g_d0_f5"
+				},
+				{
+					"x": 70.38568799999999,
+					"y": 423.12,
+					"str": " ",
+					"dir": "ltr",
+					"width": 0.9970340000000005,
+					"height": 12,
+					"fontName": "g_d0_f5"
+				},
+				{
+					"x": 82.350096,
+					"y": 423.12,
+					"str": "A",
+					"dir": "ltr",
+					"width": 6.9479999999999995,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 89.298096,
+					"y": 423.12,
+					"str": " ",
+					"dir": "ltr",
+					"width": 0.2903639999999991,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 92.78246399999999,
+					"y": 423.12,
+					"str": "produção textual é um trabalho original e, portanto, não poderá haver trabalhos idênticos",
+					"dir": "ltr",
+					"width": 448.5216000000002,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 82.350096,
+					"y": 437.76,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 82.350096,
+					"y": 437.76,
+					"str": "aos de outros alunos ou com reprodução de materiais extraídos da internet. Os trabalhos",
+					"dir": "ltr",
+					"width": 458.94360000000034,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 82.350096,
+					"y": 452.40000000000003,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 82.350096,
+					"y": 452.40000000000003,
+					"str": "plagiados serão",
+					"dir": "ltr",
+					"width": 77.47799999999997,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 159.82809600000002,
+					"y": 452.40000000000003,
+					"str": " ",
+					"dir": "ltr",
+					"width": 0.35666999999999877,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 164.108136,
+					"y": 452.40000000000003,
+					"str": "invalidados",
+					"dir": "ltr",
+					"width": 55.11239999999999,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 219.22142399999998,
+					"y": 452.40000000000003,
+					"str": ", sendo os alunos reprovados na atividade. Lembre",
+					"dir": "ltr",
+					"width": 258.3144000000001,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 477.53159999999997,
+					"y": 452.40000000000003,
+					"str": "-",
+					"dir": "ltr",
+					"width": 3.6719999999999997,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 481.20552,
+					"y": 452.40000000000003,
+					"str": "se de que a",
+					"dir": "ltr",
+					"width": 60.0960000000002,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 82.350096,
+					"y": 467.04,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 82.350096,
+					"y": 467.04,
+					"str": "prática do plágio constitui crime, com pena prevista em lei (",
+					"dir": "ltr",
+					"width": 296.67359999999996,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 379.02408,
+					"y": 467.04,
+					"str": "Lei n.º 9.610",
+					"dir": "ltr",
+					"width": 62.0736,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 441.10848,
+					"y": 467.04,
+					"str": "), e deve ser evitada",
+					"dir": "ltr",
+					"width": 100.19400000000019,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 82.350096,
+					"y": 481.68,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 82.350096,
+					"y": 481.68,
+					"str": "no âmbito acadêm",
+					"dir": "ltr",
+					"width": 91.23359999999995,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 173.58057599999998,
+					"y": 481.68,
+					"str": "ico.",
+					"dir": "ltr",
+					"width": 17.178,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 61.100088,
+					"y": 496.32000000000005,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f5"
+				},
+				{
+					"x": 61.100088,
+					"y": 496.32000000000005,
+					"str": "5.",
+					"dir": "ltr",
+					"width": 9.285599999999992,
+					"height": 12,
+					"fontName": "g_d0_f5"
+				},
+				{
+					"x": 70.38568799999999,
+					"y": 496.32000000000005,
+					"str": " ",
+					"dir": "ltr",
+					"width": 0.9970340000000005,
+					"height": 12,
+					"fontName": "g_d0_f5"
+				},
+				{
+					"x": 82.350096,
+					"y": 496.32000000000005,
+					"str": "Importante:",
+					"dir": "ltr",
+					"width": 60.15600000000002,
+					"height": 12,
+					"fontName": "g_d0_f5"
+				},
+				{
+					"x": 142.506096,
+					"y": 496.32000000000005,
+					"str": " ",
+					"dir": "ltr",
+					"width": 0.2433279999999982,
+					"height": 12,
+					"fontName": "g_d0_f5"
+				},
+				{
+					"x": 145.426032,
+					"y": 496.32000000000005,
+					"str": "O trabalho deve ser enviado em formato Word.",
+					"dir": "ltr",
+					"width": 233.0700000000001,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 378.4960320000001,
+					"y": 496.32000000000005,
+					"str": " ",
+					"dir": "ltr",
+					"width": 0.24432399999998702,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 381.42792,
+					"y": 496.32000000000005,
+					"str": "Não serão aceitos, sob nenhuma",
+					"dir": "ltr",
+					"width": 159.87000000000018,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 82.350096,
+					"y": 510.96000000000004,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 82.350096,
+					"y": 510.96000000000004,
+					"str": "hipótese, trabalhos enviados em PDF.",
+					"dir": "ltr",
+					"width": 183.4776,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 117.80006399999999,
+					"y": 540.48,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 117.80006399999999,
+					"y": 540.48,
+					"str": "A seguir, apresentamos a você alguns dos critérios avaliativos que nortearão a análise",
+					"dir": "ltr",
+					"width": 423.51120000000014,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 82.350096,
+					"y": 555.12,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 82.350096,
+					"y": 555.12,
+					"str": "do Tutor a Distância para",
+					"dir": "ltr",
+					"width": 122.37959999999987,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 204.72969600000002,
+					"y": 555.12,
+					"str": " ",
+					"dir": "ltr",
+					"width": 0.22601599999999658,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 207.44188799999998,
+					"y": 555.12,
+					"str": "atribuir o conceito à produção textual:",
+					"dir": "ltr",
+					"width": 187.5551999999999,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 61.199999999999996,
+					"y": 584.8800000000001,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f15"
+				},
+				{
+					"x": 61.199999999999996,
+					"y": 584.8800000000001,
+					"str": "•",
+					"dir": "ltr",
+					"width": 5.5200000000000005,
+					"height": 12,
+					"fontName": "g_d0_f15"
+				},
+				{
+					"x": 66.72,
+					"y": 584.8800000000001,
+					"str": " ",
+					"dir": "ltr",
+					"width": 1.3025079999999996,
+					"height": 12,
+					"fontName": "g_d0_f15"
+				},
+				{
+					"x": 82.350096,
+					"y": 584.8800000000001,
+					"str": "Normalização correta do trabalho,",
+					"dir": "ltr",
+					"width": 167.40719999999996,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 249.75729600000005,
+					"y": 584.8800000000001,
+					"str": " ",
+					"dir": "ltr",
+					"width": 0.22567199999999352,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 252.46535999999998,
+					"y": 584.8800000000001,
+					"str": "com atendimento",
+					"dir": "ltr",
+					"width": 87.00960000000016,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 339.4749600000001,
+					"y": 584.8800000000001,
+					"str": " ",
+					"dir": "ltr",
+					"width": 0.2262599999999869,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 342.19007999999997,
+					"y": 584.8800000000001,
+					"str": "ao número de páginas solicitadas.",
+					"dir": "ltr",
+					"width": 164.97840000000028,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 61.199999999999996,
+					"y": 600.24,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f15"
+				},
+				{
+					"x": 61.199999999999996,
+					"y": 600.24,
+					"str": "•",
+					"dir": "ltr",
+					"width": 5.5200000000000005,
+					"height": 12,
+					"fontName": "g_d0_f15"
+				},
+				{
+					"x": 66.72,
+					"y": 600.24,
+					"str": " ",
+					"dir": "ltr",
+					"width": 1.3025079999999996,
+					"height": 12,
+					"fontName": "g_d0_f15"
+				},
+				{
+					"x": 82.350096,
+					"y": 600.24,
+					"str": "Apresentação",
+					"dir": "ltr",
+					"width": 67.28639999999999,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 149.636496,
+					"y": 600.24,
+					"str": " ",
+					"dir": "ltr",
+					"width": 0.626,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 157.148496,
+					"y": 600.24,
+					"str": "de",
+					"dir": "ltr",
+					"width": 12.280800000000017,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 169.429296,
+					"y": 600.24,
+					"str": " ",
+					"dir": "ltr",
+					"width": 0.6252999999999981,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 176.93289599999997,
+					"y": 600.24,
+					"str": "estrutura",
+					"dir": "ltr",
+					"width": 45.42840000000005,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 222.36129599999998,
+					"y": 600.24,
+					"str": " ",
+					"dir": "ltr",
+					"width": 0.6256999999999996,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 229.86969599999998,
+					"y": 600.24,
+					"str": "condizente",
+					"dir": "ltr",
+					"width": 53.77799999999994,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 283.647696,
+					"y": 600.24,
+					"str": " ",
+					"dir": "ltr",
+					"width": 0.6253000000000052,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 291.15129600000006,
+					"y": 600.24,
+					"str": "com",
+					"dir": "ltr",
+					"width": 20.990400000000022,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 312.1416960000001,
+					"y": 600.24,
+					"str": " ",
+					"dir": "ltr",
+					"width": 0.6254999999999976,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 319.64769600000005,
+					"y": 600.24,
+					"str": "a",
+					"dir": "ltr",
+					"width": 5.748,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 325.3956960000001,
+					"y": 600.24,
+					"str": " ",
+					"dir": "ltr",
+					"width": 0.6256999999999996,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 332.9040960000001,
+					"y": 600.24,
+					"str": "proposta",
+					"dir": "ltr",
+					"width": 43.90920000000004,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 376.81329600000015,
+					"y": 600.24,
+					"str": " ",
+					"dir": "ltr",
+					"width": 0.6256999999999996,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 384.32169600000014,
+					"y": 600.24,
+					"str": "apresentada",
+					"dir": "ltr",
+					"width": 60.99720000000009,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 445.3188960000003,
+					"y": 600.24,
+					"str": " ",
+					"dir": "ltr",
+					"width": 0.6256999999999996,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 452.8272960000003,
+					"y": 600.24,
+					"str": "(com",
+					"dir": "ltr",
+					"width": 24.628800000000048,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 477.4560960000003,
+					"y": 600.24,
+					"str": " ",
+					"dir": "ltr",
+					"width": 0.6255000000000024,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 484.9620960000003,
+					"y": 600.24,
+					"str": "introdução,",
+					"dir": "ltr",
+					"width": 56.34959999999992,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 82.350096,
+					"y": 614.8800000000001,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 82.350096,
+					"y": 614.8800000000001,
+					"str": "desenvolvimento e conclusão).",
+					"dir": "ltr",
+					"width": 150.80039999999997,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 61.199999999999996,
+					"y": 630.24,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f15"
+				},
+				{
+					"x": 61.199999999999996,
+					"y": 630.24,
+					"str": "•",
+					"dir": "ltr",
+					"width": 5.5200000000000005,
+					"height": 12,
+					"fontName": "g_d0_f15"
+				},
+				{
+					"x": 66.72,
+					"y": 630.24,
+					"str": " ",
+					"dir": "ltr",
+					"width": 1.3025079999999996,
+					"height": 12,
+					"fontName": "g_d0_f15"
+				},
+				{
+					"x": 82.350096,
+					"y": 630.24,
+					"str": "Uso de linguagem ac",
+					"dir": "ltr",
+					"width": 100.67880000000001,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 183.025872,
+					"y": 630.24,
+					"str": "adêmica adequada, com clareza e correção, atendendo à norma padrão.",
+					"dir": "ltr",
+					"width": 352.89120000000025,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 61.199999999999996,
+					"y": 645.36,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f15"
+				},
+				{
+					"x": 61.199999999999996,
+					"y": 645.36,
+					"str": "•",
+					"dir": "ltr",
+					"width": 5.5200000000000005,
+					"height": 12,
+					"fontName": "g_d0_f15"
+				},
+				{
+					"x": 66.72,
+					"y": 645.36,
+					"str": " ",
+					"dir": "ltr",
+					"width": 1.3025079999999996,
+					"height": 12,
+					"fontName": "g_d0_f15"
+				},
+				{
+					"x": 82.350096,
+					"y": 645.36,
+					"str": "Atendimento",
+					"dir": "ltr",
+					"width": 64.50359999999995,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 146.85369599999996,
+					"y": 645.36,
+					"str": " ",
+					"dir": "ltr",
+					"width": 0.6405999999999992,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 154.54089599999995,
+					"y": 645.36,
+					"str": "à",
+					"dir": "ltr",
+					"width": 5.748,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 160.28889599999997,
+					"y": 645.36,
+					"str": " ",
+					"dir": "ltr",
+					"width": 0.6403000000000011,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 167.97249599999998,
+					"y": 645.36,
+					"str": "proposta,",
+					"dir": "ltr",
+					"width": 46.9092,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 214.88169599999998,
+					"y": 645.36,
+					"str": " ",
+					"dir": "ltr",
+					"width": 0.639800000000001,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 222.559296,
+					"y": 645.36,
+					"str": "contemplando",
+					"dir": "ltr",
+					"width": 71.02440000000009,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 293.583696,
+					"y": 645.36,
+					"str": " ",
+					"dir": "ltr",
+					"width": 0.6404120000000025,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 301.26864,
+					"y": 645.36,
+					"str": "todos",
+					"dir": "ltr",
+					"width": 27.672000000000065,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 328.94064,
+					"y": 645.36,
+					"str": " ",
+					"dir": "ltr",
+					"width": 0.6404000000000044,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 336.62544,
+					"y": 645.36,
+					"str": "os",
+					"dir": "ltr",
+					"width": 11.019600000000008,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 347.64504000000005,
+					"y": 645.36,
+					"str": " ",
+					"dir": "ltr",
+					"width": 0.6404000000000044,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 355.3298400000001,
+					"y": 645.36,
+					"str": "itens",
+					"dir": "ltr",
+					"width": 23.741999999999972,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 379.0718400000001,
+					"y": 645.36,
+					"str": " ",
+					"dir": "ltr",
+					"width": 0.6403199999999885,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 386.75568,
+					"y": 645.36,
+					"str": "solicitados",
+					"dir": "ltr",
+					"width": 51.45000000000009,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 438.20688,
+					"y": 645.36,
+					"str": ",",
+					"dir": "ltr",
+					"width": 3,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 441.20688,
+					"y": 645.36,
+					"str": " ",
+					"dir": "ltr",
+					"width": 0.6397800000000018,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 448.88424000000003,
+					"y": 645.36,
+					"str": "com",
+					"dir": "ltr",
+					"width": 20.98559999999992,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 469.86983999999995,
+					"y": 645.36,
+					"str": " ",
+					"dir": "ltr",
+					"width": 0.640500000000003,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 477.55584,
+					"y": 645.36,
+					"str": "objetividade,",
+					"dir": "ltr",
+					"width": 63.75240000000018,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 82.350096,
+					"y": 660,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 82.350096,
+					"y": 660,
+					"str": "criatividade, originalidade e autenticidade.",
+					"dir": "ltr",
+					"width": 208.0032000000001,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 61.199999999999996,
+					"y": 675.36,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f15"
+				},
+				{
+					"x": 61.199999999999996,
+					"y": 675.36,
+					"str": "•",
+					"dir": "ltr",
+					"width": 5.5200000000000005,
+					"height": 12,
+					"fontName": "g_d0_f15"
+				},
+				{
+					"x": 66.72,
+					"y": 675.36,
+					"str": " ",
+					"dir": "ltr",
+					"width": 1.3025079999999996,
+					"height": 12,
+					"fontName": "g_d0_f15"
+				},
+				{
+					"x": 82.350096,
+					"y": 675.36,
+					"str": "Fundamentação teórica do trabalho, com as devidas referênci",
+					"dir": "ltr",
+					"width": 308.5355999999998,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 390.88847999999996,
+					"y": 675.36,
+					"str": "as dos autores eventualmente",
+					"dir": "ltr",
+					"width": 150.41880000000006,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 82.350096,
+					"y": 690,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 82.350096,
+					"y": 690,
+					"str": "citados.",
+					"dir": "ltr",
+					"width": 37.94640000000001,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 117.80006399999999,
+					"y": 719.28,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 117.80006399999999,
+					"y": 719.28,
+					"str": "Lembre",
+					"dir": "ltr",
+					"width": 37.056000000000054,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 154.8606,
+					"y": 719.28,
+					"str": "-",
+					"dir": "ltr",
+					"width": 3.6719999999999997,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 158.534424,
+					"y": 719.28,
+					"str": "se de que seu Tutor a Distância está à disposição para lhe atender em suas",
+					"dir": "ltr",
+					"width": 382.76640000000015,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 82.350096,
+					"y": 733.9200000000001,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 82.350096,
+					"y": 733.9200000000001,
+					"str": "dúvidas e, também, para repassar orientações sempre que você precisar. Aproveite esta",
+					"dir": "ltr",
+					"width": 458.9592,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 82.350096,
+					"y": 748.5600000000001,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 82.350096,
+					"y": 748.5600000000001,
+					"str": "oportunidade para realizar um trabalho com a qual",
+					"dir": "ltr",
+					"width": 249.03599999999977,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 331.39104,
+					"y": 748.5600000000001,
+					"str": "idade acadêmic",
+					"dir": "ltr",
+					"width": 76.05840000000008,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 407.44584,
+					"y": 748.5600000000001,
+					"str": "a",
+					"dir": "ltr",
+					"width": 5.748,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 413.19384,
+					"y": 748.5600000000001,
+					"str": " ",
+					"dir": "ltr",
+					"width": 0.22607999999999606,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 415.9068,
+					"y": 748.5600000000001,
+					"str": "de nível universitário.",
+					"dir": "ltr",
+					"width": 105.34920000000014,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				}
+			]
+		},
+		{
+			"pageInfo": {
+				"num": 3,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 595,
+				"height": 842
+			},
+			"links": [],
+			"content": [
+				{
+					"x": 54,
+					"y": 52.32000000000005,
+					"str": "PROJETO INTEGRADO",
+					"dir": "ltr",
+					"width": 162.1565999999999,
+					"height": 18,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 89.25,
+					"y": 178.08000000000004,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 89.25,
+					"y": 178.08000000000004,
+					"str": "2.",
+					"dir": "ltr",
+					"width": 9.105600000000006,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 98.35560000000001,
+					"y": 178.08000000000004,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.2036839999999978,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 124.79980799999998,
+					"y": 178.08000000000004,
+					"str": "Leitura proposta",
+					"dir": "ltr",
+					"width": 82.52999999999997,
+					"height": 12,
+					"fontName": "g_d0_f5"
+				},
+				{
+					"x": 90,
+					"y": 200.16000000000008,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 90,
+					"y": 200.16000000000008,
+					"str": "Para atingir os objetivos deste projeto integrado, você deverá seguir as instruções voltadas à",
+					"dir": "ltr",
+					"width": 451.30680000000024,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 54,
+					"y": 222,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 54,
+					"y": 222,
+					"str": "elaboração do trabalho disponibilizadas ao longo do semestre, sob a orientação do Tutor a",
+					"dir": "ltr",
+					"width": 487.29240000000004,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 54,
+					"y": 244.08000000000004,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 54,
+					"y": 244.08000000000004,
+					"str": "Distância.",
+					"dir": "ltr",
+					"width": 47.50320000000002,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 267.33360000000005,
+					"y": 265.9200000000001,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f5"
+				},
+				{
+					"x": 267.33360000000005,
+					"y": 265.9200000000001,
+					"str": "ATIVIDADES",
+					"dir": "ltr",
+					"width": 60.638400000000004,
+					"height": 12,
+					"fontName": "g_d0_f5"
+				},
+				{
+					"x": 54,
+					"y": 318,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f5"
+				},
+				{
+					"x": 54,
+					"y": 318,
+					"str": "Tarefa 1:",
+					"dir": "ltr",
+					"width": 44.00159999999998,
+					"height": 12,
+					"fontName": "g_d0_f5"
+				},
+				{
+					"x": 89.449944,
+					"y": 339.84000000000003,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 89.449944,
+					"y": 339.84000000000003,
+					"str": "Na área de desenvolvimento, as funções são utilizadas para deixar o código claro e recursivo,",
+					"dir": "ltr",
+					"width": 451.85400000000016,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 54,
+					"y": 361.9200000000001,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 54,
+					"y": 361.9200000000001,
+					"str": "evitando a repetição de linhas de comandos. Dentre as boas práticas de programação é avaliar se um",
+					"dir": "ltr",
+					"width": 487.3104,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 54,
+					"y": 383.76000000000005,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 54,
+					"y": 383.76000000000005,
+					"str": "determinado trecho precisa",
+					"dir": "ltr",
+					"width": 134.77439999999993,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 188.77439999999999,
+					"y": 383.76000000000005,
+					"str": " ",
+					"dir": "ltr",
+					"width": 0.19515200000000021,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 191.116224,
+					"y": 383.76000000000005,
+					"str": "ser escrito várias vezes. Se a resposta for sim, então esse trecho deve ser",
+					"dir": "ltr",
+					"width": 350.19120000000044,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 54,
+					"y": 405.84000000000003,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 54,
+					"y": 405.84000000000003,
+					"str": "transformado em uma funcionalidade no seu código.",
+					"dir": "ltr",
+					"width": 257.9436,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 89.449944,
+					"y": 427.68000000000006,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 89.449944,
+					"y": 427.68000000000006,
+					"str": "Avalie o código abaixo:",
+					"dir": "ltr",
+					"width": 111.7908000000001,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 107.449944,
+					"y": 471.84000000000003,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f13"
+				},
+				{
+					"x": 107.449944,
+					"y": 471.84000000000003,
+					"str": "1.",
+					"dir": "ltr",
+					"width": 9.105600000000006,
+					"height": 12,
+					"fontName": "g_d0_f13"
+				},
+				{
+					"x": 116.55554400000001,
+					"y": 471.84000000000003,
+					"str": " ",
+					"dir": "ltr",
+					"width": 0.7411999999999992,
+					"height": 12,
+					"fontName": "g_d0_f13"
+				},
+				{
+					"x": 125.449944,
+					"y": 471.84000000000003,
+					"str": "#include<stdio.h>",
+					"dir": "ltr",
+					"width": 85.6415999999999,
+					"height": 12,
+					"fontName": "g_d0_f13"
+				},
+				{
+					"x": 107.449944,
+					"y": 493.68,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f13"
+				},
+				{
+					"x": 107.449944,
+					"y": 493.68,
+					"str": "2.",
+					"dir": "ltr",
+					"width": 9.105600000000006,
+					"height": 12,
+					"fontName": "g_d0_f13"
+				},
+				{
+					"x": 116.55554400000001,
+					"y": 493.68,
+					"str": " ",
+					"dir": "ltr",
+					"width": 0.7411999999999992,
+					"height": 12,
+					"fontName": "g_d0_f13"
+				},
+				{
+					"x": 125.449944,
+					"y": 493.68,
+					"str": "int somar(){",
+					"dir": "ltr",
+					"width": 57.307199999999945,
+					"height": 12,
+					"fontName": "g_d0_f13"
+				},
+				{
+					"x": 107.449944,
+					"y": 515.76,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f13"
+				},
+				{
+					"x": 107.449944,
+					"y": 515.76,
+					"str": "3.",
+					"dir": "ltr",
+					"width": 9.105600000000006,
+					"height": 12,
+					"fontName": "g_d0_f13"
+				},
+				{
+					"x": 116.55554400000001,
+					"y": 515.76,
+					"str": " ",
+					"dir": "ltr",
+					"width": 0.7411999999999992,
+					"height": 12,
+					"fontName": "g_d0_f13"
+				},
+				{
+					"x": 125.449944,
+					"y": 515.76,
+					"str": "return 1 + 2.15;",
+					"dir": "ltr",
+					"width": 75.00479999999983,
+					"height": 12,
+					"fontName": "g_d0_f13"
+				},
+				{
+					"x": 107.449944,
+					"y": 537.6,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f13"
+				},
+				{
+					"x": 107.449944,
+					"y": 537.6,
+					"str": "4.",
+					"dir": "ltr",
+					"width": 9.105600000000006,
+					"height": 12,
+					"fontName": "g_d0_f13"
+				},
+				{
+					"x": 116.55554400000001,
+					"y": 537.6,
+					"str": " ",
+					"dir": "ltr",
+					"width": 0.7411999999999992,
+					"height": 12,
+					"fontName": "g_d0_f13"
+				},
+				{
+					"x": 125.449944,
+					"y": 537.6,
+					"str": "}",
+					"dir": "ltr",
+					"width": 3.768,
+					"height": 12,
+					"fontName": "g_d0_f13"
+				},
+				{
+					"x": 107.449944,
+					"y": 559.6800000000001,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f13"
+				},
+				{
+					"x": 107.449944,
+					"y": 559.6800000000001,
+					"str": "5.",
+					"dir": "ltr",
+					"width": 9.105600000000006,
+					"height": 12,
+					"fontName": "g_d0_f13"
+				},
+				{
+					"x": 116.55554400000001,
+					"y": 559.6800000000001,
+					"str": " ",
+					"dir": "ltr",
+					"width": 0.7411999999999992,
+					"height": 12,
+					"fontName": "g_d0_f13"
+				},
+				{
+					"x": 125.449944,
+					"y": 559.6800000000001,
+					"str": "int main(){",
+					"dir": "ltr",
+					"width": 51.289199999999944,
+					"height": 12,
+					"fontName": "g_d0_f13"
+				},
+				{
+					"x": 107.449944,
+					"y": 581.52,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f13"
+				},
+				{
+					"x": 107.449944,
+					"y": 581.52,
+					"str": "6.",
+					"dir": "ltr",
+					"width": 9.105600000000006,
+					"height": 12,
+					"fontName": "g_d0_f13"
+				},
+				{
+					"x": 116.55554400000001,
+					"y": 581.52,
+					"str": " ",
+					"dir": "ltr",
+					"width": 0.7411999999999992,
+					"height": 12,
+					"fontName": "g_d0_f13"
+				},
+				{
+					"x": 125.449944,
+					"y": 581.52,
+					"str": "int resultado = 0;",
+					"dir": "ltr",
+					"width": 82.31519999999995,
+					"height": 12,
+					"fontName": "g_d0_f13"
+				},
+				{
+					"x": 107.449944,
+					"y": 603.6,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f13"
+				},
+				{
+					"x": 107.449944,
+					"y": 603.6,
+					"str": "7.",
+					"dir": "ltr",
+					"width": 9.105600000000006,
+					"height": 12,
+					"fontName": "g_d0_f13"
+				},
+				{
+					"x": 116.55554400000001,
+					"y": 603.6,
+					"str": " ",
+					"dir": "ltr",
+					"width": 0.7411999999999992,
+					"height": 12,
+					"fontName": "g_d0_f13"
+				},
+				{
+					"x": 125.449944,
+					"y": 603.6,
+					"str": "resultado = somar();",
+					"dir": "ltr",
+					"width": 98.45759999999994,
+					"height": 12,
+					"fontName": "g_d0_f13"
+				},
+				{
+					"x": 107.449944,
+					"y": 625.44,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f13"
+				},
+				{
+					"x": 107.449944,
+					"y": 625.44,
+					"str": "8.",
+					"dir": "ltr",
+					"width": 9.105600000000006,
+					"height": 12,
+					"fontName": "g_d0_f13"
+				},
+				{
+					"x": 116.55554400000001,
+					"y": 625.44,
+					"str": " ",
+					"dir": "ltr",
+					"width": 0.7411999999999992,
+					"height": 12,
+					"fontName": "g_d0_f13"
+				},
+				{
+					"x": 125.449944,
+					"y": 625.44,
+					"str": "printf(“O resultado da funcao e = %d”,resultado);",
+					"dir": "ltr",
+					"width": 238.58639999999986,
+					"height": 12,
+					"fontName": "g_d0_f13"
+				},
+				{
+					"x": 107.449944,
+					"y": 647.52,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f13"
+				},
+				{
+					"x": 107.449944,
+					"y": 647.52,
+					"str": "9.",
+					"dir": "ltr",
+					"width": 9.105600000000006,
+					"height": 12,
+					"fontName": "g_d0_f13"
+				},
+				{
+					"x": 116.55554400000001,
+					"y": 647.52,
+					"str": " ",
+					"dir": "ltr",
+					"width": 0.7411999999999992,
+					"height": 12,
+					"fontName": "g_d0_f13"
+				},
+				{
+					"x": 125.449944,
+					"y": 647.52,
+					"str": "return 0;",
+					"dir": "ltr",
+					"width": 42.32879999999993,
+					"height": 12,
+					"fontName": "g_d0_f13"
+				},
+				{
+					"x": 107.449944,
+					"y": 669.6,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f13"
+				},
+				{
+					"x": 107.449944,
+					"y": 669.6,
+					"str": "10.",
+					"dir": "ltr",
+					"width": 15.187199999999997,
+					"height": 12,
+					"fontName": "g_d0_f13"
+				},
+				{
+					"x": 122.63714400000002,
+					"y": 669.6,
+					"str": " ",
+					"dir": "ltr",
+					"width": 0.23439999999999847,
+					"height": 12,
+					"fontName": "g_d0_f13"
+				},
+				{
+					"x": 125.449944,
+					"y": 669.6,
+					"str": "}",
+					"dir": "ltr",
+					"width": 3.768,
+					"height": 12,
+					"fontName": "g_d0_f13"
+				},
+				{
+					"x": 89.449944,
+					"y": 713.52,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 89.449944,
+					"y": 713.52,
+					"str": "Com base no contexto apresentado, comente o resultado do código acima, qual resultado",
+					"dir": "ltr",
+					"width": 451.8480000000004,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 54,
+					"y": 735.36,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 54,
+					"y": 735.36,
+					"str": "será apresentado no final? E porquê?",
+					"dir": "ltr",
+					"width": 181.96679999999992,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				}
+			]
+		},
+		{
+			"pageInfo": {
+				"num": 4,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 595,
+				"height": 842
+			},
+			"links": [],
+			"content": [
+				{
+					"x": 54,
+					"y": 52.32000000000005,
+					"str": "PROJETO INTEGRADO",
+					"dir": "ltr",
+					"width": 162.1565999999999,
+					"height": 18,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 54,
+					"y": 156.24,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f5"
+				},
+				{
+					"x": 54,
+					"y": 156.24,
+					"str": "Tarefa 2:",
+					"dir": "ltr",
+					"width": 44.00159999999998,
+					"height": 12,
+					"fontName": "g_d0_f5"
+				},
+				{
+					"x": 89.39990399999999,
+					"y": 178.08000000000004,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 89.39990399999999,
+					"y": 178.08000000000004,
+					"str": "Hartmann e Wobeto",
+					"dir": "ltr",
+					"width": 99.86040000000006,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 189.260304,
+					"y": 178.08000000000004,
+					"str": " ",
+					"dir": "ltr",
+					"width": 0.20426000000000025,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 191.711424,
+					"y": 178.08000000000004,
+					"str": "(2015), abordando a norma ISO/IEC 38.500 (ABNT 2009), sobre a Gestão",
+					"dir": "ltr",
+					"width": 349.5804000000005,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 54,
+					"y": 200.16000000000008,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 54,
+					"y": 200.16000000000008,
+					"str": "da Tecnologia de Informação, o que está relacionado à sua Governança e definem: É o sistema pelo",
+					"dir": "ltr",
+					"width": 487.308,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 54,
+					"y": 222,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 54,
+					"y": 222,
+					"str": "qual os usos atual e futuro da TI são dirigidos e controlados. Significa avaliar e direc",
+					"dir": "ltr",
+					"width": 406.3391999999998,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 460.33128,
+					"y": 222,
+					"str": "ionar o uso da TI",
+					"dir": "ltr",
+					"width": 80.9687999999999,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 54,
+					"y": 244.08000000000004,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 54,
+					"y": 244.08000000000004,
+					"str": "para dar suporte à organização e monitorar seu uso para realizar planos. Inclui a estratégia e as",
+					"dir": "ltr",
+					"width": 487.2911999999998,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 54,
+					"y": 265.9200000000001,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 54,
+					"y": 265.9200000000001,
+					"str": "políticas de uso da TI dentro da organização.",
+					"dir": "ltr",
+					"width": 216.7416,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 89.39990399999999,
+					"y": 288,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 89.39990399999999,
+					"y": 288,
+					"str": "Dentro da governança, pesquise sobre ITIL e COBIT e",
+					"dir": "ltr",
+					"width": 266.86920000000015,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 356.2691039999999,
+					"y": 288,
+					"str": " ",
+					"dir": "ltr",
+					"width": 0.6620000000000014,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 364.21310399999993,
+					"y": 288,
+					"str": "traga um exemplo de boas práticas",
+					"dir": "ltr",
+					"width": 177.09600000000003,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 54,
+					"y": 309.84000000000003,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 54,
+					"y": 309.84000000000003,
+					"str": "tanto p",
+					"dir": "ltr",
+					"width": 35.43359999999999,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 89.437488,
+					"y": 309.84000000000003,
+					"str": "ara ITL como para Cobit.",
+					"dir": "ltr",
+					"width": 118.5767999999999,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 54,
+					"y": 353.76000000000005,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f5"
+				},
+				{
+					"x": 54,
+					"y": 353.76000000000005,
+					"str": "Tarefa 3:",
+					"dir": "ltr",
+					"width": 44.00159999999998,
+					"height": 12,
+					"fontName": "g_d0_f5"
+				},
+				{
+					"x": 89.39990399999999,
+					"y": 375.84000000000003,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 89.39990399999999,
+					"y": 375.84000000000003,
+					"str": "Com a pandemia, muitas pessoas que trabalharam na “linha de frente do combate” acabaram",
+					"dir": "ltr",
+					"width": 451.9091999999997,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 54,
+					"y": 397.9200000000001,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 54,
+					"y": 397.9200000000001,
+					"str": "se contaminando com o coronavírus. Você recebeu a tarefa de implementar um aplicativo com plano",
+					"dir": "ltr",
+					"width": 487.2936000000001,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 54,
+					"y": 419.76,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 54,
+					"y": 419.76,
+					"str": "de controle e prevenção de aciden",
+					"dir": "ltr",
+					"width": 167.37840000000003,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 221.379648,
+					"y": 419.76,
+					"str": "tes para hospitais. Os profissionais que tiveram os maiores índices",
+					"dir": "ltr",
+					"width": 319.9152000000005,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 54,
+					"y": 441.84000000000003,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 54,
+					"y": 441.84000000000003,
+					"str": "de acidentes e afastamentos foram os enfermeiros e os médicos e os setores de maior contaminação",
+					"dir": "ltr",
+					"width": 487.2900000000002,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 54,
+					"y": 463.68000000000006,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 54,
+					"y": 463.68000000000006,
+					"str": "foram a UTI e a Enfermaria.",
+					"dir": "ltr",
+					"width": 134.13479999999998,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 54,
+					"y": 485.76000000000005,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 54,
+					"y": 485.76000000000005,
+					"str": "Para ter mais detalhes sobre esses setores, você solicitou inf",
+					"dir": "ltr",
+					"width": 305.91839999999996,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 359.91744,
+					"y": 485.76000000000005,
+					"str": "ormações sobre os setores de UTI e",
+					"dir": "ltr",
+					"width": 181.38719999999986,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 54,
+					"y": 507.6,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 54,
+					"y": 507.6,
+					"str": "Enfermaria.",
+					"dir": "ltr",
+					"width": 57.024,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 92.112792,
+					"y": 551.52,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 92.112792,
+					"y": 551.52,
+					"str": "As informações obtidas foram:",
+					"dir": "ltr",
+					"width": 149.28359999999986,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 89.39990399999999,
+					"y": 573.6,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 89.39990399999999,
+					"y": 573.6,
+					"str": "• Nove pessoas trabalham exclusivamente na UTI.",
+					"dir": "ltr",
+					"width": 243.96599999999984,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 89.39990399999999,
+					"y": 595.6800000000001,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 89.39990399999999,
+					"y": 595.6800000000001,
+					"str": "• Sete pessoas trabalham exclusivamente n Enfermaria.",
+					"dir": "ltr",
+					"width": 271.6583999999999,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 89.39990399999999,
+					"y": 617.52,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 89.39990399999999,
+					"y": 617.52,
+					"str": "• Ao todo, trabalham, nas duas seções, 22 funcionários.",
+					"dir": "ltr",
+					"width": 271.46519999999975,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 89.39990399999999,
+					"y": 661.44,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 89.39990399999999,
+					"y": 661.44,
+					"str": "Para divulgar o aplicativo com mais eficiência, você decidiu que os funcionários que são",
+					"dir": "ltr",
+					"width": 451.9079999999998,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 54,
+					"y": 683.52,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 54,
+					"y": 683.52,
+					"str": "capacitados para trabalhar nos dois setores serão os divulgadores das informações para a prevenção",
+					"dir": "ltr",
+					"width": 487.2912,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 54,
+					"y": 705.36,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 54,
+					"y": 705.36,
+					"str": "de acidentes.",
+					"dir": "ltr",
+					"width": 64.85520000000001,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 107.39990399999999,
+					"y": 727.44,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 107.39990399999999,
+					"y": 727.44,
+					"str": "a)",
+					"dir": "ltr",
+					"width": 9.384,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 116.78390399999998,
+					"y": 727.44,
+					"str": " ",
+					"dir": "ltr",
+					"width": 0.7180000000000012,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 125.39990399999999,
+					"y": 727.44,
+					"str": "Como você determinaria a quantidade de funcionários",
+					"dir": "ltr",
+					"width": 268.35479999999984,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 393.7547040000002,
+					"y": 727.44,
+					"str": " ",
+					"dir": "ltr",
+					"width": 0.2662279999999839,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 396.94944,
+					"y": 727.44,
+					"str": "que serão os divulgadores do",
+					"dir": "ltr",
+					"width": 144.34560000000008,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 125.39990399999999,
+					"y": 749.28,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 125.39990399999999,
+					"y": 749.28,
+					"str": "plano de controle e prevenção de acidentes?",
+					"dir": "ltr",
+					"width": 218.90879999999976,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				}
+			]
+		},
+		{
+			"pageInfo": {
+				"num": 5,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 595,
+				"height": 842
+			},
+			"links": [],
+			"content": [
+				{
+					"x": 54,
+					"y": 52.32000000000005,
+					"str": "PROJETO INTEGRADO",
+					"dir": "ltr",
+					"width": 162.1565999999999,
+					"height": 18,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 107.39990399999999,
+					"y": 134.16000000000008,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 107.39990399999999,
+					"y": 134.16000000000008,
+					"str": "b)",
+					"dir": "ltr",
+					"width": 9.940800000000003,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 117.34070399999999,
+					"y": 134.16000000000008,
+					"str": " ",
+					"dir": "ltr",
+					"width": 0.6716000000000003,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 125.39990399999999,
+					"y": 134.16000000000008,
+					"str": "Sabendo que o tempo de treinamento dos funcionários é de, aproximadamente, 7",
+					"dir": "ltr",
+					"width": 415.9091999999995,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 125.39990399999999,
+					"y": 156.24,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 125.39990399999999,
+					"y": 156.24,
+					"str": "horas, que o valor da hora de trabalho de cada um é R$ 22,00 e que o custo do serviço",
+					"dir": "ltr",
+					"width": 415.8995999999998,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 125.39990399999999,
+					"y": 178.08000000000004,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 125.39990399999999,
+					"y": 178.08000000000004,
+					"str": "do técnico que rea",
+					"dir": "ltr",
+					"width": 92.42039999999997,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 217.81763999999998,
+					"y": 178.08000000000004,
+					"str": "lizará o treinamento é de 1,2 mil reais, qual deve ser a estimativa",
+					"dir": "ltr",
+					"width": 323.4864000000002,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 125.39990399999999,
+					"y": 200.16000000000008,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 125.39990399999999,
+					"y": 200.16000000000008,
+					"str": "do valor gasto com o treinamento dessas pessoas?",
+					"dir": "ltr",
+					"width": 247.09200000000027,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 54,
+					"y": 251.2800000000001,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f5"
+				},
+				{
+					"x": 54,
+					"y": 251.2800000000001,
+					"str": "Tarefa 4:",
+					"dir": "ltr",
+					"width": 44.00159999999998,
+					"height": 12,
+					"fontName": "g_d0_f5"
+				},
+				{
+					"x": 89.39990399999999,
+					"y": 289.9200000000001,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 89.39990399999999,
+					"y": 289.9200000000001,
+					"str": "O primeiro passo para a implementação de um banco de dados é a sua modelagem. Ou seja,",
+					"dir": "ltr",
+					"width": 451.9068000000001,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 54,
+					"y": 312,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 54,
+					"y": 312,
+					"str": "é nesta primeira etapa que você deve pensar nos dados que serão armazenados e em como eles",
+					"dir": "ltr",
+					"width": 487.3092000000003,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 54,
+					"y": 333.84000000000003,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 54,
+					"y": 333.84000000000003,
+					"str": "serão relacionados entre si na estrutura do banco. Desta forma, explique quais",
+					"dir": "ltr",
+					"width": 404.5211999999999,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 458.52120000000014,
+					"y": 333.84000000000003,
+					"str": " ",
+					"dir": "ltr",
+					"width": 0.3862399999999866,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 463.15608,
+					"y": 333.84000000000003,
+					"str": "são as fases de",
+					"dir": "ltr",
+					"width": 78.14760000000032,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 54,
+					"y": 355.9200000000001,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 54,
+					"y": 355.9200000000001,
+					"str": "modelagem de dados que devem ser aplicadas em um projeto de banco de dados, e indique ao",
+					"dir": "ltr",
+					"width": 487.30679999999955,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 54,
+					"y": 377.76000000000005,
+					"str": "",
+					"dir": "ltr",
+					"width": 0,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 54,
+					"y": 377.76000000000005,
+					"str": "menos uma ferramenta CASE que poderia ser utilizada neste processo de modelagem.",
+					"dir": "ltr",
+					"width": 420.3407999999999,
+					"height": 12,
+					"fontName": "g_d0_f4"
+				}
+			]
+		}
+	],
+	"filename": "./uploads/1655055740242-1643393900112.pdf"
+}
